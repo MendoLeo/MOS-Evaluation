@@ -10,7 +10,9 @@ def init_firebase():
         try:
             # 🔐 1. Utilisation de Streamlit secrets s'ils existent
             if "FIREBASE" in st.secrets:
-                cred = credentials.Certificate(st.secrets["FIREBASE"])
+                # Convertit le SecretsDict en vrai dict
+                firebase_dict = dict(st.secrets["FIREBASE"])
+                cred = credentials.Certificate(firebase_dict)
 
             # 🌍 2. Sinon, via variable d'environnement
             elif "FIREBASE_KEY_JSON" in os.environ:
