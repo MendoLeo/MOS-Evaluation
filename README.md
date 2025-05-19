@@ -5,7 +5,7 @@
 This project is a web-based application designed to simplify **MOS (Mean Opinion Score)** evaluations for speech and audio samples.
 Most existing evaluation platforms rely heavily on text forms. Very few embed audio players directly into the evaluation interface. At best, evaluators are redirected to **external video or audio links**, which significantly degrades the user experience.
 
-**This app solves that problem** by providing a clean, audio-first interface that allows evaluators to play samples and rate them on a 1–5 scale, all within a single page — no external links or distractions.
+**This app solves that problem** by providing a clean, audio-first interface that allows evaluators to play samples and rate them on a 1–5 scale, all within a single page — no external links or distractions..
 
 ---
 
