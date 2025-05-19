@@ -3,7 +3,7 @@ from firebase_admin import credentials, firestore
 import csv
 
 # Initialise l'app Firebase
-cred = credentials.Certificate("/home/mendo/Downloads/LM/LM-5/MOS/serviceAccountKey.json")
+cred = credentials.Certificate("/home/mendo/Downloads/LM/LM-5/MOS-Evaluation/serviceAccountKey.json")
 firebase_admin.initialize_app(cred)
 
 db = firestore.client()
