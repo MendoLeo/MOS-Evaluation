@@ -1,0 +1,11 @@
+extrait,timestamp,note,langue,domaine
+1JN_001_002.wav,2025-04-30T16:36:13.950968,2,bafia,in_domain
+1JN_001_003.wav,2025-04-30T16:34:18.114201,2,bafia,in_domain
+LUK_001_002.wav,2025-04-30T11:44:59.781822,3,bulu,out_of_domain
+LUK_001_004.wav,2025-04-30T11:44:32.271019,3,bulu,in_domain
+LUK_001_003.wav,2025-04-30T11:45:08.028761,3,bulu,in_domain
+1JN_001_004.wav,2025-04-30T16:34:38.412059,2,bafia,out_of_domain
+LUK_001_001.wav,2025-04-30T11:44:48.974560,3,bulu,out_of_domain
+1JN_001_001.wav,2025-04-30T16:34:58.486035,3,bafia,in_domain
+1JN_001_005.wav,2025-04-30T16:36:46.996529,4,bafia,out_of_domain
+LUK_001_005.wav,2025-04-30T11:45:17.604484,3,bulu,in_domain

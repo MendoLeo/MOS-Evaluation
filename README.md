@@ -93,6 +93,14 @@ To use the app online and collect evaluations in real-time:
    ```bash
    python getdata.py
    ```
+   ### **csv informations**
+  
+| evaluate record           | timestamp                  | note | language | domaine|
+|-------------------|----------------------------|------|--------|-----------------|
+| 1JN_001_002.wav   | 2025-04-30T16:36:13.950968 | 2    | bafia  | in_domain       |
+| 1JN_001_003.wav   | 2025-04-30T16:34:18.114201 | 2    | bafia  | in_domain       |
+| LUK_001_002.wav   | 2025-04-30T11:44:59.781822 | 3    | bulu   | out_of_domain   |
+
 
 ---
 
